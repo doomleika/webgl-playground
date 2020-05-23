@@ -1,0 +1,8 @@
+# yarn/npm stuff
+node_modules
+yarn-error.log
+
+# parcel caches
+dist/*
+!dist/.gitkeep
+.cache
